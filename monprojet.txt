@@ -1,0 +1,2 @@
+Mon projet est de créer un site de vente d'objets brodés.
+Et de réaliser les broderies laissées dans les placards.
